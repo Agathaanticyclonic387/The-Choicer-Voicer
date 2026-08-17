@@ -38,8 +38,6 @@ Dub Mode, where you can do a voiceover of your favorite scenes.
 ## ⚙️Installation 
 [<img src="https://img.shields.io/badge/Download_version_0.4.14_(.ZIP)-121212?style=for-the-badge&logo=github&logoColor=white" alt="Download">](https://github.com/YeahMaybeee/The-Choicer-Voicer)
 
-Click the button above to download version 0.4.14. **Password "Voice"**
-
 ## ⚠Warnings⚠
 
 The Choicer Voicer is still an early access alpha. The foundational code is two years old and makes it difficult to implement some features.
