@@ -8,9 +8,7 @@ Inspired by party games of old, The Choicer Voicer is all about doing vocal impr
   <a href="https://github.com/YeahMaybeee/The-Choicer-Voicer">
     <img src="https://img.shields.io/badge/Download_version_0.4.14_(.ZIP)-121212?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
-  <br><br>
-  <strong>Password "Voice"</strong>
-</p>
+
 
 ## Fully customize your experience
 <img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/6271cc14-a853-4ab0-92ab-c47dc301cfb3" />
